@@ -21,5 +21,8 @@ liquidity, and efficiency. The model was trained on 5 years of data and tested o
 the data, and year t was used as an out of sample test. The chosen algorithm was XGBoost, a state-of-the-art model which captures the nonlinear dyanmics of the
 situation. We ranked the average stock performance in each decile of returns predicted by the model. 
 
+## Performance Results
+![XGBoost Backtest Results](output.png)
+
 
 
